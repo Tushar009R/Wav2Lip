@@ -1,4 +1,4 @@
-librosa>=0.7.0
+librosa==0.9.1
 numpy>=1.17.3
 opencv-contrib-python>=4.4.0.44
 opencv-python>=4.4.0.44
